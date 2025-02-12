@@ -44,4 +44,3 @@ Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-mu
 <img width="449" alt="image" src="https://github.com/user-attachments/assets/0cd8398b-eead-4b5a-8f2b-5c68e9730470" />
 <img width="459" alt="image" src="https://github.com/user-attachments/assets/ffc2f13c-b2c7-4393-a98e-0d4f20a51291" />
 <img width="446" alt="image" src="https://github.com/user-attachments/assets/f0007190-922f-4b19-9232-5ef188f00ff7" />
-![Uploading image.png…]()
