@@ -1,0 +1,351 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\a7f79f84e7388f5e741a075bf077f09b\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\eaa9d38f240ebcb4f6a23a0ed92b1739\transformed\activity-1.8.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\cbf15d67475c8ca85000e5981b91544f\transformed\activity-ktx-1.8.2\AndroidManifest.xml:2:1-7:12
+MERGED from [cafe.adriel.voyager:voyager-koin-android-debug:1.0.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\2cd4d0f41cdf8a148a503d2ae2e0a1ac\transformed\voyager-koin-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [cafe.adriel.voyager:voyager-screenmodel-android-debug:1.0.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\230ef0f32d1ec6cbd0ab7bb979907359\transformed\voyager-screenmodel-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [cafe.adriel.voyager:voyager-transitions-android-debug:1.0.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\bd0fba4259f7e2c989e57bb79b145fa3\transformed\voyager-transitions-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [cafe.adriel.voyager:voyager-navigator-android-debug:1.0.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\756ad7adfb15bcc67d131060b9eaca97\transformed\voyager-navigator-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3-android:1.2.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\f36f6c3e9aa7a10c9095ce256e063086\transformed\material3-release\AndroidManifest.xml:17:1-22:12
+MERGED from [cafe.adriel.voyager:voyager-core-android-debug:1.0.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\2da1666178c27355949e25b4a75f7e29\transformed\voyager-core-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.8.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\dc33a4049e8245bb8a0b2b460fdb0dd9\transformed\activity-compose-1.8.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.6.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\2cc10e9a039ae9dc7625fbd4480730fe\transformed\material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\ff27b0b0d1c98188c32ac2cdc5e5407a\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.6.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\583c95f758b01fd01c359ce614f022c8\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.6.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\a9726791786d1746f3974489ea5fe75e\transformed\library-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\ab05bba51f727282932d4538238591ee\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\6cd2e7c3ee48ea49574b5292fbe4356c\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\6428bdbf9ccd5d28f26fd815bc6f8b08\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\210aed1ec1345e6a8587db1f5ca227e6\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\59e890bdbe1e74ccab8a0b9e3a8a622b\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\148a75452e76a61fa333aac973b8e917\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\e194ab4f224d44618d6902895027e395\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\e4d1b94b9c4f3a74c815866ecb34bf9a\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\6e8ba58cec3a73a3d564cb566d451c4b\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\8136e28cb647eab491c0adee4a4187a0\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\770c141bbb22cd410a1a1f9c8d989312\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\2a15fd19e8da5a518868d6ca8044850e\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\48a4a88830d31839203ea596d8f4abf7\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\10626e0d299dfe9c98bce7b693b40edc\transformed\core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\6224a5aba12f89e00c559aa2ed6b5d1f\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core:1.12.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\81e30be54ae922b828c1d5594470c842\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\8236e17fb258b71c50db2d171f7e87d0\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\2209a53c08aee38c910d588770c772d6\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\a78c372284cc0ba1bfdb10720586625c\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\7b09ac3940c3a7a32f60ec8d2fecafb4\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\71eefa94fe3e93f6d5b24980ccf10590\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\87f964ccfed1d5d4c0bd27defcf8c969\transformed\lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\019afdb70eac58b0e77ba160c380c072\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\8610877ba734da628ff10ffac36c71f1\transformed\lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\68854300586296329d50d5a9f9138332\transformed\lifecycle-viewmodel-compose-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\f0f091a74eccdcbc98f222d4699ce49c\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\55a60af8a87d6ba7e9701d7b2e81aade\transformed\ui-tooling-release\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.core:core-splashscreen:1.0.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\7d1d5c4ac5382b7c179a0a5a15346735\transformed\core-splashscreen-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.6.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\024ae4bf3b4dd58e6f39f817ebf3d8ab\transformed\library-release\AndroidManifest.xml:2:1-7:12
+MERGED from [io.realm.kotlin:library-base-android:1.13.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\1a8adf53e60722d8604b750c7eb16c6c\transformed\library-base-release\AndroidManifest.xml:18:1-26:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\fbc8da669fa03850d277b28de046e1b1\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\9c684931054df05c9ac6735cef71b716\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [io.realm.kotlin:cinterop-android:1.13.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\e6bb7d1e75dea4cad6dd48ce623acc6f\transformed\cinterop-release\AndroidManifest.xml:18:1-38:12
+MERGED from [org.mongodb.kbson:kbson-android-debug:0.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\f4152920c3bf53518a0ff768df28462c\transformed\kbson-debug\AndroidManifest.xml:18:1-27:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\849f6df4eeabb408cc0f575397fe3a8a\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\fd8e9327f6b95baf296dba960f24b629\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\c48669deb2c7d5c3f551aa93dca57aa8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\9f5e2b00c7c476a4e10c3961288cb8bb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\ea2ccd67aad472618f04edaa373f966f\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\a3c163dd7a37c1fcd3d21faf777094c9\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\375eb0269e138f0077bcdc8fc836e218\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\d0722a74e0cef73571f2af24196a616b\transformed\relinker-1.4.5\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml:4:5-25:19
+INJECTED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml:4:5-25:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\6224a5aba12f89e00c559aa2ed6b5d1f\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\6224a5aba12f89e00c559aa2ed6b5d1f\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\81e30be54ae922b828c1d5594470c842\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\81e30be54ae922b828c1d5594470c842\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\8236e17fb258b71c50db2d171f7e87d0\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\8236e17fb258b71c50db2d171f7e87d0\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\55a60af8a87d6ba7e9701d7b2e81aade\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\55a60af8a87d6ba7e9701d7b2e81aade\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [io.realm.kotlin:cinterop-android:1.13.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\e6bb7d1e75dea4cad6dd48ce623acc6f\transformed\cinterop-release\AndroidManifest.xml:26:5-36:19
+MERGED from [io.realm.kotlin:cinterop-android:1.13.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\e6bb7d1e75dea4cad6dd48ce623acc6f\transformed\cinterop-release\AndroidManifest.xml:26:5-36:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\fd8e9327f6b95baf296dba960f24b629\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\fd8e9327f6b95baf296dba960f24b629\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\c48669deb2c7d5c3f551aa93dca57aa8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\c48669deb2c7d5c3f551aa93dca57aa8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\9f5e2b00c7c476a4e10c3961288cb8bb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\9f5e2b00c7c476a4e10c3961288cb8bb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\81e30be54ae922b828c1d5594470c842\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml:10:9-50
+activity#com.typ.todo.MainActivity
+ADDED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml:12:9-24:20
+	android:windowSoftInputMode
+		ADDED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml:13:13-55
+	android:exported
+		ADDED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml:14:13-36
+	android:configChanges
+		ADDED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml:15:13-225
+	android:theme
+		ADDED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml:17:13-54
+	android:name
+		ADDED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml
+INJECTED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\a7f79f84e7388f5e741a075bf077f09b\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\a7f79f84e7388f5e741a075bf077f09b\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\eaa9d38f240ebcb4f6a23a0ed92b1739\transformed\activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\eaa9d38f240ebcb4f6a23a0ed92b1739\transformed\activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\cbf15d67475c8ca85000e5981b91544f\transformed\activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\cbf15d67475c8ca85000e5981b91544f\transformed\activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-koin-android-debug:1.0.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\2cd4d0f41cdf8a148a503d2ae2e0a1ac\transformed\voyager-koin-debug\AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-koin-android-debug:1.0.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\2cd4d0f41cdf8a148a503d2ae2e0a1ac\transformed\voyager-koin-debug\AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-screenmodel-android-debug:1.0.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\230ef0f32d1ec6cbd0ab7bb979907359\transformed\voyager-screenmodel-debug\AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-screenmodel-android-debug:1.0.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\230ef0f32d1ec6cbd0ab7bb979907359\transformed\voyager-screenmodel-debug\AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-transitions-android-debug:1.0.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\bd0fba4259f7e2c989e57bb79b145fa3\transformed\voyager-transitions-debug\AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-transitions-android-debug:1.0.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\bd0fba4259f7e2c989e57bb79b145fa3\transformed\voyager-transitions-debug\AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-navigator-android-debug:1.0.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\756ad7adfb15bcc67d131060b9eaca97\transformed\voyager-navigator-debug\AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-navigator-android-debug:1.0.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\756ad7adfb15bcc67d131060b9eaca97\transformed\voyager-navigator-debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\f36f6c3e9aa7a10c9095ce256e063086\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\f36f6c3e9aa7a10c9095ce256e063086\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [cafe.adriel.voyager:voyager-core-android-debug:1.0.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\2da1666178c27355949e25b4a75f7e29\transformed\voyager-core-debug\AndroidManifest.xml:5:5-44
+MERGED from [cafe.adriel.voyager:voyager-core-android-debug:1.0.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\2da1666178c27355949e25b4a75f7e29\transformed\voyager-core-debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\dc33a4049e8245bb8a0b2b460fdb0dd9\transformed\activity-compose-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\dc33a4049e8245bb8a0b2b460fdb0dd9\transformed\activity-compose-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\2cc10e9a039ae9dc7625fbd4480730fe\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\2cc10e9a039ae9dc7625fbd4480730fe\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\ff27b0b0d1c98188c32ac2cdc5e5407a\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\ff27b0b0d1c98188c32ac2cdc5e5407a\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\583c95f758b01fd01c359ce614f022c8\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\583c95f758b01fd01c359ce614f022c8\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.6.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\a9726791786d1746f3974489ea5fe75e\transformed\library-release\AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.6.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\a9726791786d1746f3974489ea5fe75e\transformed\library-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\ab05bba51f727282932d4538238591ee\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\ab05bba51f727282932d4538238591ee\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\6cd2e7c3ee48ea49574b5292fbe4356c\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\6cd2e7c3ee48ea49574b5292fbe4356c\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\6428bdbf9ccd5d28f26fd815bc6f8b08\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\6428bdbf9ccd5d28f26fd815bc6f8b08\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\210aed1ec1345e6a8587db1f5ca227e6\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\210aed1ec1345e6a8587db1f5ca227e6\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\59e890bdbe1e74ccab8a0b9e3a8a622b\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\59e890bdbe1e74ccab8a0b9e3a8a622b\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\148a75452e76a61fa333aac973b8e917\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\148a75452e76a61fa333aac973b8e917\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\e194ab4f224d44618d6902895027e395\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\e194ab4f224d44618d6902895027e395\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\e4d1b94b9c4f3a74c815866ecb34bf9a\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\e4d1b94b9c4f3a74c815866ecb34bf9a\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\6e8ba58cec3a73a3d564cb566d451c4b\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\6e8ba58cec3a73a3d564cb566d451c4b\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\8136e28cb647eab491c0adee4a4187a0\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\8136e28cb647eab491c0adee4a4187a0\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\770c141bbb22cd410a1a1f9c8d989312\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\770c141bbb22cd410a1a1f9c8d989312\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\2a15fd19e8da5a518868d6ca8044850e\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\2a15fd19e8da5a518868d6ca8044850e\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\48a4a88830d31839203ea596d8f4abf7\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\48a4a88830d31839203ea596d8f4abf7\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\10626e0d299dfe9c98bce7b693b40edc\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\10626e0d299dfe9c98bce7b693b40edc\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\6224a5aba12f89e00c559aa2ed6b5d1f\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\6224a5aba12f89e00c559aa2ed6b5d1f\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\81e30be54ae922b828c1d5594470c842\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\81e30be54ae922b828c1d5594470c842\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\8236e17fb258b71c50db2d171f7e87d0\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\8236e17fb258b71c50db2d171f7e87d0\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\2209a53c08aee38c910d588770c772d6\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\2209a53c08aee38c910d588770c772d6\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\a78c372284cc0ba1bfdb10720586625c\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\a78c372284cc0ba1bfdb10720586625c\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\7b09ac3940c3a7a32f60ec8d2fecafb4\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\7b09ac3940c3a7a32f60ec8d2fecafb4\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\71eefa94fe3e93f6d5b24980ccf10590\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\71eefa94fe3e93f6d5b24980ccf10590\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\87f964ccfed1d5d4c0bd27defcf8c969\transformed\lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\87f964ccfed1d5d4c0bd27defcf8c969\transformed\lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\019afdb70eac58b0e77ba160c380c072\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\019afdb70eac58b0e77ba160c380c072\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\8610877ba734da628ff10ffac36c71f1\transformed\lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\8610877ba734da628ff10ffac36c71f1\transformed\lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\68854300586296329d50d5a9f9138332\transformed\lifecycle-viewmodel-compose-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\68854300586296329d50d5a9f9138332\transformed\lifecycle-viewmodel-compose-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\f0f091a74eccdcbc98f222d4699ce49c\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\f0f091a74eccdcbc98f222d4699ce49c\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\55a60af8a87d6ba7e9701d7b2e81aade\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\55a60af8a87d6ba7e9701d7b2e81aade\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-splashscreen:1.0.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\7d1d5c4ac5382b7c179a0a5a15346735\transformed\core-splashscreen-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-splashscreen:1.0.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\7d1d5c4ac5382b7c179a0a5a15346735\transformed\core-splashscreen-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.6.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\024ae4bf3b4dd58e6f39f817ebf3d8ab\transformed\library-release\AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.6.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\024ae4bf3b4dd58e6f39f817ebf3d8ab\transformed\library-release\AndroidManifest.xml:5:5-44
+MERGED from [io.realm.kotlin:library-base-android:1.13.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\1a8adf53e60722d8604b750c7eb16c6c\transformed\library-base-release\AndroidManifest.xml:22:5-24:41
+MERGED from [io.realm.kotlin:library-base-android:1.13.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\1a8adf53e60722d8604b750c7eb16c6c\transformed\library-base-release\AndroidManifest.xml:22:5-24:41
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\fbc8da669fa03850d277b28de046e1b1\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\fbc8da669fa03850d277b28de046e1b1\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\9c684931054df05c9ac6735cef71b716\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\9c684931054df05c9ac6735cef71b716\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [io.realm.kotlin:cinterop-android:1.13.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\e6bb7d1e75dea4cad6dd48ce623acc6f\transformed\cinterop-release\AndroidManifest.xml:22:5-24:41
+MERGED from [io.realm.kotlin:cinterop-android:1.13.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\e6bb7d1e75dea4cad6dd48ce623acc6f\transformed\cinterop-release\AndroidManifest.xml:22:5-24:41
+MERGED from [org.mongodb.kbson:kbson-android-debug:0.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\f4152920c3bf53518a0ff768df28462c\transformed\kbson-debug\AndroidManifest.xml:23:5-25:41
+MERGED from [org.mongodb.kbson:kbson-android-debug:0.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\f4152920c3bf53518a0ff768df28462c\transformed\kbson-debug\AndroidManifest.xml:23:5-25:41
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\849f6df4eeabb408cc0f575397fe3a8a\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\849f6df4eeabb408cc0f575397fe3a8a\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\fd8e9327f6b95baf296dba960f24b629\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\fd8e9327f6b95baf296dba960f24b629\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\c48669deb2c7d5c3f551aa93dca57aa8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\c48669deb2c7d5c3f551aa93dca57aa8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\9f5e2b00c7c476a4e10c3961288cb8bb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\9f5e2b00c7c476a4e10c3961288cb8bb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\ea2ccd67aad472618f04edaa373f966f\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\ea2ccd67aad472618f04edaa373f966f\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\a3c163dd7a37c1fcd3d21faf777094c9\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\a3c163dd7a37c1fcd3d21faf777094c9\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\375eb0269e138f0077bcdc8fc836e218\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\375eb0269e138f0077bcdc8fc836e218\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\d0722a74e0cef73571f2af24196a616b\transformed\relinker-1.4.5\AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\d0722a74e0cef73571f2af24196a616b\transformed\relinker-1.4.5\AndroidManifest.xml:5:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\typhoon\AndroidStudioProjects\Todo\composeApp\src\androidMain\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\6224a5aba12f89e00c559aa2ed6b5d1f\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\8236e17fb258b71c50db2d171f7e87d0\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\8236e17fb258b71c50db2d171f7e87d0\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [io.realm.kotlin:cinterop-android:1.13.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\e6bb7d1e75dea4cad6dd48ce623acc6f\transformed\cinterop-release\AndroidManifest.xml:27:9-35:20
+MERGED from [io.realm.kotlin:cinterop-android:1.13.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\e6bb7d1e75dea4cad6dd48ce623acc6f\transformed\cinterop-release\AndroidManifest.xml:27:9-35:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\c48669deb2c7d5c3f551aa93dca57aa8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\c48669deb2c7d5c3f551aa93dca57aa8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\9f5e2b00c7c476a4e10c3961288cb8bb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\9f5e2b00c7c476a4e10c3961288cb8bb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\6224a5aba12f89e00c559aa2ed6b5d1f\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\6224a5aba12f89e00c559aa2ed6b5d1f\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\6224a5aba12f89e00c559aa2ed6b5d1f\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\6224a5aba12f89e00c559aa2ed6b5d1f\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\6224a5aba12f89e00c559aa2ed6b5d1f\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\6224a5aba12f89e00c559aa2ed6b5d1f\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\6224a5aba12f89e00c559aa2ed6b5d1f\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\81e30be54ae922b828c1d5594470c842\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\81e30be54ae922b828c1d5594470c842\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\81e30be54ae922b828c1d5594470c842\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+permission#com.typ.todo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\81e30be54ae922b828c1d5594470c842\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\81e30be54ae922b828c1d5594470c842\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\81e30be54ae922b828c1d5594470c842\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\81e30be54ae922b828c1d5594470c842\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\81e30be54ae922b828c1d5594470c842\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+uses-permission#com.typ.todo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\81e30be54ae922b828c1d5594470c842\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\81e30be54ae922b828c1d5594470c842\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\8236e17fb258b71c50db2d171f7e87d0\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\8236e17fb258b71c50db2d171f7e87d0\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\8236e17fb258b71c50db2d171f7e87d0\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\55a60af8a87d6ba7e9701d7b2e81aade\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\55a60af8a87d6ba7e9701d7b2e81aade\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.2] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\55a60af8a87d6ba7e9701d7b2e81aade\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+meta-data#io.realm.kotlin.internal.RealmInitializer
+ADDED from [io.realm.kotlin:cinterop-android:1.13.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\e6bb7d1e75dea4cad6dd48ce623acc6f\transformed\cinterop-release\AndroidManifest.xml:32:13-34:52
+	android:value
+		ADDED from [io.realm.kotlin:cinterop-android:1.13.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\e6bb7d1e75dea4cad6dd48ce623acc6f\transformed\cinterop-release\AndroidManifest.xml:34:17-49
+	android:name
+		ADDED from [io.realm.kotlin:cinterop-android:1.13.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\e6bb7d1e75dea4cad6dd48ce623acc6f\transformed\cinterop-release\AndroidManifest.xml:33:17-73
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\c48669deb2c7d5c3f551aa93dca57aa8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\c48669deb2c7d5c3f551aa93dca57aa8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\c48669deb2c7d5c3f551aa93dca57aa8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\c48669deb2c7d5c3f551aa93dca57aa8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\c48669deb2c7d5c3f551aa93dca57aa8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\c48669deb2c7d5c3f551aa93dca57aa8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\c48669deb2c7d5c3f551aa93dca57aa8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\c48669deb2c7d5c3f551aa93dca57aa8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\c48669deb2c7d5c3f551aa93dca57aa8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\c48669deb2c7d5c3f551aa93dca57aa8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\c48669deb2c7d5c3f551aa93dca57aa8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\c48669deb2c7d5c3f551aa93dca57aa8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\c48669deb2c7d5c3f551aa93dca57aa8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\c48669deb2c7d5c3f551aa93dca57aa8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\c48669deb2c7d5c3f551aa93dca57aa8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\c48669deb2c7d5c3f551aa93dca57aa8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\c48669deb2c7d5c3f551aa93dca57aa8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\c48669deb2c7d5c3f551aa93dca57aa8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\c48669deb2c7d5c3f551aa93dca57aa8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\c48669deb2c7d5c3f551aa93dca57aa8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\typhoon\.gradle\caches\8.10.2\transforms\c48669deb2c7d5c3f551aa93dca57aa8\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
