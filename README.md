@@ -31,8 +31,8 @@ This is a Kotlin Multiplatform project targeting Android, iOS.
 ⚙️ Testing on Multiple Platforms: Testing applications on both Android and iOS simulators guarantees functionality across devices, identifying platform-specific issues before deployment.\
 🛠️ Future Enhancements: There’s potential for further improvements in error handling and user feedback, enhancing the app’s usability and robustness, which is crucial for professional applications.\
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
-![Uploading image.png…]()
 
+<img width="458" alt="image" src="https://github.com/user-attachments/assets/90862fd4-c91f-4502-ae90-327a72cb3524" />
 <img width="432" alt="image" src="https://github.com/user-attachments/assets/ccdd9d36-59ed-48c8-bd7e-071e79847828" />
 <img width="443" alt="image" src="https://github.com/user-attachments/assets/51fbe288-d6f0-412f-ad62-c3604945a1d5" />
 <img width="456" alt="image" src="https://github.com/user-attachments/assets/c21adf91-d2c0-4f96-a79f-8c835efa39f2" />
